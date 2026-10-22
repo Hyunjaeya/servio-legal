@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Servio Je - Privacy Policy</title>
+    <style>body { font-family: sans-serif; max-width: 600px; margin: 40px auto; padding: 20px; line-height: 1.6; background-color: #f9f9f9; color: #333; }</style>
+</head>
+<body>
+    <h1>Servio Je. - Privacy Policy</h1>
+    <p>This bot collects minimal data to function properly:</p>
+    <ul>
+        <li><strong>Data Collected:</strong> Discord User IDs, Server IDs, Channel IDs, and message content (specifically within ticket channels for admin logging purposes).</li>
+        <li><strong>Data Usage:</strong> Data is solely used to operate the bot's features and will not be sold or shared with third parties.</li>
+        <li><strong>Data Deletion:</strong> Server admins may request the deletion of ticket log data at any time.</li>
+    </ul>
+</body>
+</html>
